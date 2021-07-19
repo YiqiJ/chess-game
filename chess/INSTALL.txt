@@ -1,0 +1,5 @@
+Under the directory of this project, enter the command [make play] in to the 
+terminal to launch the game interface. 
+Type a random key to start the game. 
+Please change the background color of the terminal into some color other than 
+black color. 
